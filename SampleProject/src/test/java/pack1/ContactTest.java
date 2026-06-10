@@ -19,5 +19,10 @@ public class ContactTest {
 	public void modifycontacttest() {
 		System.out.println("execute contactmodel");
 	}
+	@Test
+	public void deletecontacttest() {
+		System.out.println("execute deletecontactmodel");
+	}
+	
 
 }
