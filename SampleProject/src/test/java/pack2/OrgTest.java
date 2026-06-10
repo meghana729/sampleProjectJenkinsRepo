@@ -1,0 +1,15 @@
+package pack2;
+
+import org.testng.annotations.Test;
+
+public class OrgTest {
+
+	@Test
+	public void createorgtest() {
+		System.out.println("execute org test");
+	}
+	@Test
+	public void modifyorgtest() {
+		System.out.println("execute modifyorgtest");
+	}
+}
