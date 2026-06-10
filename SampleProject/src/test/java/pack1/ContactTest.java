@@ -19,10 +19,7 @@ public class ContactTest {
 	public void modifycontacttest() {
 		System.out.println("execute contactmodel");
 	}
-	@Test
-	public void samplecontacttest() {
-		System.out.println("execute sample contactmodel");
-	}
+	
 	
 
 }
